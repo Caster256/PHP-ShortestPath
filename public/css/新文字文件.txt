@@ -1,0 +1,6 @@
+#color {
+	color:blue;
+}	
+#rightpanel a {
+	text-decoration:underline;
+}
